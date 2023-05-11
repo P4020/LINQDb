@@ -11,6 +11,8 @@ dotnet new console
 ``` 
 dotnet add package sqlite-net-pcl
 ```
+![image](https://github.com/P4020/LINQDb/assets/117436985/fae14374-3e71-4ea4-a71b-99e5ee4ea24e)
+
 ###### Inoltre scaricare l'estensione SQL VIEWER per visualizzare tutto il database del file chinook.db su VisualStudio Code.
 
 ![image](https://github.com/P4020/LINQDb/assets/117436985/b3e68d01-2da1-49a9-a25b-009edbe6bdf6)
