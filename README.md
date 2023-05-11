@@ -1,9 +1,11 @@
 # LINQDb
 ## Creazione progetto .NET
-###### Dopo aver aperto la cartella su VisualStudio Code aprire un nuovo terminale e digitare : 
+###### Dopo aver creato ed aperto la cartella su VisualStudio Code aprire un nuovo terminale e digitare : 
+
 ``` 
 dotnet new console 
 ```
+![image](https://user-images.githubusercontent.com/117436985/235087757-cebe3990-ddc3-4d95-b4fa-94a364c6e10a.png)
 ![image](https://github.com/P4020/LINQDb/assets/117436985/b79a9091-6bf9-43cc-89df-d00b2f404f03)
 ###### Per far funzionare al meglio il codice digitare nel terminale la senguente riga di codice per la libreria SQL:
 ``` 
