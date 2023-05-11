@@ -50,4 +50,13 @@ public class Artist
     public string Name{get;set;}
 }
 ```
+###### Poi per vedere tutti gli artisti e il loro nome dobbiamo andare a nel terminale :
+
+``` 
+dotnet run
+```
+
+###### e così compariranno nel terminale tutto ciò che è richiesto dal codice.
+![image](https://github.com/P4020/LINQDb/assets/117436985/ca966ff6-d99d-45b9-a470-b4ee0f0691a4)
+
 
