@@ -15,7 +15,7 @@ dotnet add package sqlite-net-pcl
 
 ![image](https://github.com/P4020/LINQDb/assets/117436985/b3e68d01-2da1-49a9-a25b-009edbe6bdf6)
 
-###### E questo è cio che si vedra su VIsualStudio Code usando l'estensione SQL Viewer :
+###### E questo è cio che si vedra su VisualStudio Code usando l'estensione SQL Viewer :
 
 ![image](https://github.com/P4020/LINQDb/assets/117436985/55652299-281d-455c-b275-ac1c5cfd7fca)
 
