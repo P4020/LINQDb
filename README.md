@@ -56,7 +56,7 @@ public class Artist
 dotnet run
 ```
 
-###### e così compariranno nel terminale tutto ciò che è richiesto dal codice.
+###### e così comparirà nel terminale tutto ciò che abbiamo richiesto tramite il codice dal codice.
 ![image](https://github.com/P4020/LINQDb/assets/117436985/ca966ff6-d99d-45b9-a470-b4ee0f0691a4)
 
 
